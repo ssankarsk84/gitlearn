@@ -1,4 +1,4 @@
-this is for sample
+//this is for sample
 class hello
 {
   public static void main(String[] args)
